@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![Work Day Scheduler](./images/screenshot1.png)
+Screenshot of the Work Day Scheduler application showcasing its user-friendly interface and time management features [here](./Images/screenshot1.png).
 
 ## Description
 
@@ -47,7 +47,7 @@ No installation is required for this application. Simply open the `index.html` f
 
 ## Screenshots
 
-![Work Day Scheduler - Past, Present, and Future Time Blocks](./images/screenshot2.png)
+Screenshot of the Work Day Scheduler app displaying past, present, and future time blocks [here](./Images/screenshot2.png).
 
 ## Demo
 
